@@ -9,4 +9,4 @@
 # 나의 블로그
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pongchi)](https://velog.io/@pongchi) 
 ## 최신글
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pongchi)](https://github.com/pongchi/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pongchi)](https://velog.io/@pongchi)
