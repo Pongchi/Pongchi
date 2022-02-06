@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Pongchi%20&height=300&fontSize=100&textBg=true)
 
+## Introduce Myself
+- https://velog.io/@pongchi/about
+
 ### 취약점 제보
 [ 버그 바운티 ]
 
