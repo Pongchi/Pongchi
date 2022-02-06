@@ -3,13 +3,6 @@
 ## Introduce Myself
 - https://velog.io/@pongchi/about
 
-### 취약점 제보
-[ 버그 바운티 ]
-
-- KVE-2022-0060
-- KVE-2022-0073
-- KVE-2022-0079
-
 ------------
 # 나의 블로그
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=pongchi)](https://velog.io/@pongchi) 
@@ -22,3 +15,14 @@
 
 # BOJ
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=jwj1219j)](https://solved.ac/profile/jwj1219j)
+
+-----------
+
+</br><br/><br/>
+
+### 취약점 제보
+[ 버그 바운티 ]
+
+- KVE-2022-0060
+- KVE-2022-0073
+- KVE-2022-0079
